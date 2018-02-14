@@ -1,3 +1,0 @@
-read me
-
-Onedaytask2是整个项目的源文件，用AS打开即可
